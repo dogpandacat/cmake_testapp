@@ -1,0 +1,29 @@
+"E:\Program Files\JetBrains\CLion-2023.2.2.win\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=E:\CLionProjects\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S E:\CLionProjects\cmake_testapp -B E:\CLionProjects\cmake_testapp\cmake-build-release
+-- Found Boost: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/include (found suitable version "1.83.0", minimum required is "1.83.0") found components: timer 
+-- Found libevent include directory: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/include
+-- Found libevent component: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin/event_cored.dll
+-- Found libevent component: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/bin/event_core.dll
+-- Found libevent component: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/debug/bin/event_extrad.dll
+-- Found libevent component: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/bin/event_extra.dll
+-- Found libevent 2.2.0 in E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows
+-- Found Boost: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/include (found version "1.83.0") found components: context filesystem program_options regex system thread chrono atomic 
+-- Found folly: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows
+-- Found Boost: E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/include (found version "1.83.0") found components: container 
+E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/include/libusb-1.0
+optimizedE:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/lib/libusb-1.0.libdebugE:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/debug/lib/libusb-1.0.lib
+CMake Warning (dev) at E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (Protobuf)
+  does not match the name of the calling package (protobuf).  This can lead
+  to problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-module.cmake:162 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-config.cmake:168 (include)
+  E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/vcpkg-cmake-wrapper.cmake:16 (_find_package)
+  E:/CLionProjects/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:813 (include)
+  CMakeLists.txt:149 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.4s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/CLionProjects/cmake_testapp/cmake-build-release

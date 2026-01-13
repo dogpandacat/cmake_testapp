@@ -1,0 +1,3 @@
+/mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug/CMakeFiles/cout_fmt_demo.dir
+/mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug/CMakeFiles/edit_cache.dir
+/mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug/CMakeFiles/rebuild_cache.dir

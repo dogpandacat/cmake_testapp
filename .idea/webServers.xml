@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6dfd29ea-700f-467b-a950-dd222d4e01d2" name="SFTP">
+        <fileTransfer rootFolder="/home/andycui" accessType="SFTP" host="192.168.0.12" port="22" sshConfigId="acf1e2ff-a408-4ea3-bef1-0ccb5cb3b07a" sshConfig="andycui@192.168.0.12:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

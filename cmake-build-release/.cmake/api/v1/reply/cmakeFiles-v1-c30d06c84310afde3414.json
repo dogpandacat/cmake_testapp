@@ -1,0 +1,829 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-release/CMakeFiles/3.27.8/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/absl/abslConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/absl/abslConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/absl/abslTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/absl/abslTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/absl/abslTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/soem/soemConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/soem/soemConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/soem/soemConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/folly/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/folly/folly-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/folly/folly-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/folly/folly-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/folly/folly-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/double-conversion/double-conversionConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/double-conversion/double-conversionConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/double-conversion/double-conversionTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/double-conversion/double-conversionTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/double-conversion/double-conversionTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/glog/glog-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/glog/glog-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/glog/glog-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/glog/glog-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/glog/glog-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/gflags/gflags-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libevent/LibeventConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libevent/LibeventConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libevent/LibeventTargets-shared.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libevent/LibeventTargets-shared-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libevent/LibeventTargets-shared-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/fmt/fmt-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/fmt/fmt-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/fmt/fmt-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/fmt/fmt-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/fmt/fmt-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libmodbus/libmodbusConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libmodbus/libmodbusConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libmodbus/libmodbusConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cpprestsdk/cpprestsdk-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cpprestsdk/cpprestsdk-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/unofficial-brotli/unofficial-brotli-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/unofficial-brotli/unofficial-brotli-config-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/unofficial-brotli/unofficial-brotli-config-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cpprestsdk/cpprestsdk-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cpprestsdk/cpprestsdk-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cpprestsdk/cpprestsdk-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libuv/libuvConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libuv/libuvConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libuv/libuvConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/libusb/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoNetConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoNetConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoFoundationConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoFoundationConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/FindPCRE2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoNetTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoNetTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/poco/PocoNetTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/protobuf/protobuf-module.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cppzmq/cppzmqConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cppzmq/cppzmqConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/Program Files/JetBrains/CLion-2023.2.2.win/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/zeromq/ZeroMQConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/CLionProjects/.vcpkg-clion/vcpkg/installed/x64-windows/share/cppzmq/cppzmqTargets.cmake"
+		},
+		{
+			"path" : "ctests/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "E:/CLionProjects/cmake_testapp/cmake-build-release",
+		"source" : "E:/CLionProjects/cmake_testapp"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

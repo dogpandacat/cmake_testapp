@@ -1,0 +1,349 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				},
+				{
+					"build" : "ctests",
+					"jsonFile" : "directory-ctests-Release-4be25e398338bde3f5e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ctests",
+					"targetIndexes" : 
+					[
+						9
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "cmake_testapp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "adjacent_find::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adjacent_find-Release-f48e312d2d48c26e3a5c.json",
+					"name" : "adjacent_find",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "base_drived_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base_drived_demo-Release-1485991d676f831cadaf.json",
+					"name" : "base_drived_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boost_string_demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boost_string_demo1-Release-f656f30a765b3815ff2b.json",
+					"name" : "boost_string_demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc-Release-f5134d5ee36486319750.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calc_hash_value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc_hash_value-Release-4064b9c760b3f50c2ba5.json",
+					"name" : "calc_hash_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cctype_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cctype_demo-Release-f1611c316ca3d8401dd3.json",
+					"name" : "cctype_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmake_testapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmake_testapp-Release-5d824dbcfc5b3b4339b2.json",
+					"name" : "cmake_testapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmake_testapp_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmake_testapp_lib-Release-2647b17bc8139e7a9d32.json",
+					"name" : "cmake_testapp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cout_fmt_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cout_fmt_demo-Release-8c456afa1c530e211cad.json",
+					"name" : "cout_fmt_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ctest_exe_addvalues_zero::@4459f3eb93a30272e8ef",
+					"jsonFile" : "target-ctest_exe_addvalues_zero-Release-a16bfbb34b6f5790cd1e.json",
+					"name" : "ctest_exe_addvalues_zero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exe1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exe1-Release-952f09324c5c16ee171a.json",
+					"name" : "exe1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "find_u_disk1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-find_u_disk1-Release-c93a572cfeb7599bb3fb.json",
+					"name" : "find_u_disk1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "google_abseil_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-google_abseil_demo-Release-f8540adb025c90fa6960.json",
+					"name" : "google_abseil_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "http_client_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-http_client_demo-Release-c91a69df83e6abe16eb7.json",
+					"name" : "http_client_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iterator_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iterator_demo-Release-e71ebc945345ede39832.json",
+					"name" : "iterator_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jemalloc_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jemalloc_demo-Release-f06a7e20ccc71f4b6fd1.json",
+					"name" : "jemalloc_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libuv_demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libuv_demo1-Release-242ce6ee444d07bf4b66.json",
+					"name" : "libuv_demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "memory_allocator_demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-memory_allocator_demo1-Release-544a3bb0395ae0398b8f.json",
+					"name" : "memory_allocator_demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "modbus_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-modbus_demo-Release-d74fd47496e8816a4735.json",
+					"name" : "modbus_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nested_class1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nested_class1-Release-c2808f4efba2d7453145.json",
+					"name" : "nested_class1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "poco_net_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-poco_net_demo-Release-2244aeb4916688fe01f5.json",
+					"name" : "poco_net_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "right_ref_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-right_ref_demo-Release-c545eb4b10af73b01a83.json",
+					"name" : "right_ref_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "soem_demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-soem_demo1-Release-cde664575b5932ce3dba.json",
+					"name" : "soem_demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "struct_bit_protocol_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-struct_bit_protocol_demo-Release-c4a20e2ecc9005072835.json",
+					"name" : "struct_bit_protocol_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcp_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcp_demo-Release-34cf75c18c9b70fd4d89.json",
+					"name" : "tcp_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_geom3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_geom3d-Release-bab0310243668cbbecb2.json",
+					"name" : "test_geom3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "transform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transform-Release-ef3f87427a2dccceeb2b.json",
+					"name" : "transform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "usb_demo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-usb_demo1-Release-25167520ad061a01bc3b.json",
+					"name" : "usb_demo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zclient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zclient-Release-cbc7777b3b652242e5bc.json",
+					"name" : "zclient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zeromq_protobuf_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zeromq_protobuf_demo-Release-ee3784ed5d2a84a93669.json",
+					"name" : "zeromq_protobuf_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zserver-Release-6ecc79644e3278b5b4d1.json",
+					"name" : "zserver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CLionProjects/cmake_testapp/cmake-build-release",
+		"source" : "E:/CLionProjects/cmake_testapp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

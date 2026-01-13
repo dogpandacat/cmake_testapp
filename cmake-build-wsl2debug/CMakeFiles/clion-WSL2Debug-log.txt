@@ -1,0 +1,12 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-22.04 --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/e/CLionProjects/cmake_testapp -B /mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug; exitcode=$?; sleep 0.001; (exit $exitcode)"
+CMake Error at /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find Boost (missing: Boost_INCLUDE_DIR timer) (Required is at
+  least version "1.83.0")
+Call Stack (most recent call first):
+  /usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.22/Modules/FindBoost.cmake:2360 (find_package_handle_standard_args)
+  CMakeLists.txt:43 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/mnt/e/CLionProjects/cmake_testapp/cmake-build-wsl2debug/CMakeFiles/CMakeOutput.log".
