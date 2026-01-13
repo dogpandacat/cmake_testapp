@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-linux
+cmake-build-release-linux
+cmake-build-debug-mingw
+cmake-build-wsl2debug
+
+dist
